@@ -9,16 +9,16 @@ In previsione di utilizzare GIT e GitHub come strumenti di collaborazione e cond
 A questo link potete scaricare le slide della serata tenuta al LAB il 3 marzo 2015:
 [http://riminilug.it/tiki-download_file.php?fileId=668]
 
-Questo progetto demo costituisce uno spazio per esercitarsi liberamente e testare le funzionalita' che poi torneranno utili per contribuire ai nostri progetti.
+Questo progetto demo costituisce uno spazio per esercitarsi liberamente e testare le funzionalità che poi torneranno utili per contribuire ai nostri progetti.
 
 Come usare questo progetto
 --------------------------
 
-* Creare un proprio account GitHub e comunicarlo in Mailing List per essere aggiunti come contributors
-* Installare GIT sul proprio computer
-* Clonare il progetto in locale
-* Creare una o piu' branch personali (usare nomi univoci, es <cognome>_<nome_branch>
-* lavorare sulla propria branch e provare a fare il push
+* Creare un proprio account GitHub e comunicarlo in Mailing List per essere aggiunti come contributors.
+* Installare GIT sul proprio computer.
+* Clonare il progetto in locale.
+* Creare una o più branch personali (usare nomi univoci, es <cognome>_<nome_branch>.
+* Lavorare sulla propria branch e provare a fare il push.
 
 Non abbiate paura di sbagliare, non succede nulla :)
 
@@ -45,7 +45,7 @@ Riepilogo comandi base
 
 `git commit -a -m"testo del messaggio"`
 
-Per descrizioni piu' aticolate non usare l'opzione `-m`
+Per descrizioni più articolate non usare l'opzione `-m`
 
 
 Altri comandi utili:
