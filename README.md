@@ -29,5 +29,41 @@ Inoltre invito anche a provare gli altri strumenti di GitHub:
 Riepilogo comandi base
 ----------------------
 
+### Comandi su repository locale
 
+`git clone https://github.com/riminilug/demoproject.git`
+
+`git branch <nome_branch>`  Usare nomi per le branch del tipo <cognome_titolo>
+
+`git checkout <nome_branch>`
+
+.... modifico/aggiungo/rimuovo files
+
+`git status`
+
+`git add <nome_nuovo_file>`
+
+`git commit -a -m"testo del messaggio"`
+
+Per descrizioni piu' aticolate non usare l'opzione `-m`
+
+
+Altri comandi utili:
+
+`git log`
+
+`gitk`  - il pacchetto gitk va installato, se non presente
+
+`git diff`
+
+`git merge <nome_branch_da_fondere>`
+
+
+### Sincronizzazione con GitHub
+
+`git pull`
+
+`git push`
+
+`git checkout <nome_branch> && git push origin <nome_branch>`
 
