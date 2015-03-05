@@ -67,3 +67,6 @@ Altri comandi utili:
 
 `git checkout <nome_branch> && git push origin <nome_branch>`
 
+### Branch di Gabo 
+Il branch "gabo_branch" è il branch di Gabriele Z.
+
