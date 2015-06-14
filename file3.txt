@@ -1,3 +1,7 @@
 Aggiunto da Andrea Grossi
 
+<<<<<<< HEAD
 modifico questa riga, il file non è stato aggiornato con il master
+=======
+Ultreiore aggiunta di una riga
+>>>>>>> origin
